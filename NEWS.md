@@ -4,6 +4,12 @@
 * Includes 1st - 4th order zero variance control variates
 * Regularisation is based on lasso or more generally elastic net where lambda is chosen using cross-validation and the elastic net parameter is specified
 
+# ZVCV 0.1.0
+
+* Initial release
+* Includes 1st - 4th order zero variance control variates
+* Regularisation is based on lasso or more generally elastic net where lambda is chosen using cross-validation and the elastic net parameter is specified
+
 # ZVCV 0.1.1
 
 * Allows for any order polynomial (with fast implementations available for polynomial orders Q = 1-4 or dimension d = 1)
@@ -33,3 +39,7 @@
 - obs_estim --> est_inds and is used to specify the estimation/fitting only samples (with the remainder being used for evaluation of the integrand
 - REMOVED obs_estim_choose, the option to specify the samples for each cross-validation fold. I think this level of flexibility would rarely be required and it cause confusion when est_inds is specified.
 
+# ZVCV 2.1.1
+
+* Fixing a bug in the sample pre-processing for the special case of no duplicates + split estimation
+* Other small bug fixes

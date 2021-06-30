@@ -1,6 +1,6 @@
-e1a6634420109c5a8c8e726fb26ac652 *DESCRIPTION
+b0a942540dde56726e2a543a7a76f9f9 *DESCRIPTION
 6f55780d1ecef578d2f38e46aad9be4f *NAMESPACE
-9802b93a811d14c5d4f8aeeb5028ed57 *NEWS.md
+b9d0be27e7891823880ed96b8aabeb85 *NEWS.md
 90931cc68dfb1dcc7b392edb704a5b7b *R/Expand_Temperatures.R
 242d1b200ea9777438beddee64e1dc5a *R/RcppExports.R
 3bcf9b9a658cbfb4eb5a3dadad578786 *R/ZVCV_package.R
@@ -10,7 +10,7 @@ bab6c6f5be86e099b213b80a11ba04f6 *R/evidence_CTI_CF.R
 b38123d54e57f095194a340d13c50763 *R/evidence_SMC.R
 f5bb42dcf0f8169a932c7a2b6ad9246a *R/evidence_SMC_CF.R
 5f2b8a1b6a4a95a4e8652fe6e650465f *R/globals.R
-f310d5312339f1475771f98bdb60292a *R/kernel_methods.R
+bbd33edc8fb56f246002945cc4a0e38e *R/kernel_methods.R
 7a8756866fdd94dad73a28abeffc9640 *R/logsumexp.R
 08ebe6bec82dc4531f8b6f995b69612c *R/poly.R
 ef7c1157e165748a827881cebf5c6e39 *R/zv.R
@@ -38,7 +38,7 @@ d01d48416cde1175f742975e3e5365f2 *man/nearPD.Rd
 add03b062d6be3acbb972e37257747b7 *man/squareNorm.Rd
 27a8bc4bf4c249d835b7e6ff067c7360 *man/zvcv.Rd
 5bdbeace934f31a70fb187d7029c08eb *src/Makevars
-244b4109f4b5abed04cb461950afa86c *src/RcppExports.cpp
-caa7cbac72a375687379650b41eaaacd *src/fnToExport.cpp
+cce2ea01e82a9995db03f45cb4af17c1 *src/RcppExports.cpp
+3d0a87b7139bdcc8cd638b15eb6ebef8 *src/fnToExport.cpp
 b670b4972bb1fa1b685910e28f5409d7 *src/getPoly.cpp
 5f4ee0a2bfce52584489065ec29127d5 *src/kernels.cpp
