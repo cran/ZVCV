@@ -1,6 +1,6 @@
-b0a942540dde56726e2a543a7a76f9f9 *DESCRIPTION
+36b9543b8609a4193ac562e4aba1cc51 *DESCRIPTION
 6f55780d1ecef578d2f38e46aad9be4f *NAMESPACE
-b9d0be27e7891823880ed96b8aabeb85 *NEWS.md
+51263b97fad730c27cf89927361c5519 *NEWS.md
 90931cc68dfb1dcc7b392edb704a5b7b *R/Expand_Temperatures.R
 242d1b200ea9777438beddee64e1dc5a *R/RcppExports.R
 3bcf9b9a658cbfb4eb5a3dadad578786 *R/ZVCV_package.R
@@ -39,6 +39,6 @@ add03b062d6be3acbb972e37257747b7 *man/squareNorm.Rd
 27a8bc4bf4c249d835b7e6ff067c7360 *man/zvcv.Rd
 5bdbeace934f31a70fb187d7029c08eb *src/Makevars
 cce2ea01e82a9995db03f45cb4af17c1 *src/RcppExports.cpp
-3d0a87b7139bdcc8cd638b15eb6ebef8 *src/fnToExport.cpp
+4758f8976760898baa9435c4fa7010f4 *src/fnToExport.cpp
 b670b4972bb1fa1b685910e28f5409d7 *src/getPoly.cpp
 5f4ee0a2bfce52584489065ec29127d5 *src/kernels.cpp
